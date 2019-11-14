@@ -25,5 +25,5 @@ zerror=valorz*(sqrt(p*q/n))
 zerror
 limeteizqu=propoMuestral+zerror
 limetederc=propoMuestral-zerror
-intervalo<-c(eteizqu,limetederc)
+intervalo<-c(limeteizqu,limetederc)
 intervalo
